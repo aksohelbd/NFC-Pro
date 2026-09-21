@@ -1,0 +1,6 @@
+{
+  "name": "NFC Pro Portfolio & Smart Card Hub",
+  "description": "Professional responsive portfolio and NFC digital business card platform with private tap cards, instant contact saving, vCard export, and token-based client & admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
